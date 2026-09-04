@@ -22,3 +22,4 @@ The project is modularized for easy maintenance:
 - `handlers.py`: Telegram command functions.
 - `scraper.py`: Web scraping logic to extract prices from URLs.
 - `jobs.py`: APScheduler tasks for background price checking.
+
